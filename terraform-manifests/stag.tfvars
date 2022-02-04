@@ -10,8 +10,8 @@ app3_dns_name = "app3.lhindtc.link"
 
 
 # RDS DB variables
-db_name = "webappdb-stag"
-db_instance_identifier = "webappdb-stag"
+db_name = "webappdbstag"
+db_instance_identifier = "webappdbstag"
 db_username = "dbadmin"
 db_password = "Password711"
 
