@@ -40,7 +40,7 @@ single_nat_gateway = true
 
 
 # destroy
-terraform apply -input=false -var-file=dev.tfvars -auto-approve
+#terraform apply -input=false -var-file=dev.tfvars -auto-approve
 
 # destroy
-terraform destroy -input=false -var-file=dev.tfvars -auto-approve
+#terraform destroy -input=false -var-file=dev.tfvars -auto-approve
