@@ -1,0 +1,9 @@
+VPC created on Wed Jan 26 10:58:31 CET 2022 and VPC ID: vpc-090e38d55dd1fff1b
+VPC created on Wed Jan 26 14:47:13 CET 2022 and VPC ID: vpc-09cf1afa944d9928f
+VPC created on Wed Jan 26 18:49:39 CET 2022 and VPC ID: vpc-013550e8c221c1eca
+VPC created on Thu Jan 27 08:06:58 CET 2022 and VPC ID: vpc-03083cccb76e1efdf
+VPC created on Fri Jan 28 18:26:33 CET 2022 and VPC ID: vpc-00b40a30d71208551
+VPC created on Sat Jan 29 08:08:29 CET 2022 and VPC ID: vpc-036ac77267f478a82
+VPC created on Wed Feb 2 08:05:49 CET 2022 and VPC ID: vpc-00eeda71354b1f16c
+VPC created on Wed Feb 2 09:08:45 CET 2022 and VPC ID: vpc-06ac51f5b6c20e3cd
+VPC created on Fri Feb 4 09:52:58 CET 2022 and VPC ID: vpc-019dba86ab3ca1e09
