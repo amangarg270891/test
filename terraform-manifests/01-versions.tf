@@ -13,7 +13,7 @@ terraform {
     random = {
       source = "hashicorp/random"
       version = "~> 3.0"
-    }    
+    }
   }
   # Adding Backend as S3 for Remote State Storage for DevOps
   backend "s3" {}
@@ -24,6 +24,12 @@ provider "aws" {
   region  = var.aws_region
   profile = "default"
 }
+
+# Create Random Pet Resource
+resource "random_pet" "this" {
+  length = 2
+}
+
 /*
 Note-1:  AWS Credentials Profile (profile = "default") configured on your local desktop terminal
 $HOME/.aws/credentials
